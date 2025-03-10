@@ -42,3 +42,8 @@ It can handle the varying load of your application traffic in a single Availabil
 * Operates at both the request level and connection level.
 * Support for sticky sessions using load balancer-generated cookies.
 
+
+### Security, Authentication and Access Control
+* Use IAM Policies to grant permissions
+* Resource-level permissions
+* Security groups that control the traffic allowed to and from your load balancer.

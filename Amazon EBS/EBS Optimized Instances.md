@@ -1,0 +1,3 @@
+- Provides the best performance for your EBS volumes by minimizing contention between EBS I/O and other traffic from your instance.
+- EBS–optimized instances deliver dedicated bandwidth between 500 Mbps and 60,000 Mbps to EBS.
+- For instance types that are EBS–optimized by default, there is no need to enable EBS optimization and no effect if you disable EBS optimization.
